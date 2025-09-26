@@ -1,0 +1,1 @@
+player_overlapping = place_meeting(x, y, obj_Player);

@@ -1,0 +1,4 @@
+player controls  -> keyboard up, down, left, right
+
+create new map  -> keyboard control key
+toggle draw map off/on  -> keyboard alt key

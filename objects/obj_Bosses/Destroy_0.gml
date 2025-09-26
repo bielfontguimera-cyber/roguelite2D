@@ -1,0 +1,1 @@
+on_boss_killed_immediately();
