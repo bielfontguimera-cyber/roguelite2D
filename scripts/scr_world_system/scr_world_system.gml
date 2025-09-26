@@ -524,4 +524,3 @@ function on_boss_killed_immediately() {
 
     // desa estat
   
-
