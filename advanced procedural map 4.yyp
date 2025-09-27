@@ -95,7 +95,7 @@
     {"id":{"name":"Mistery_Idle_Right","path":"sprites/Mistery_Idle_Right/Mistery_Idle_Right.yy",},},
     {"id":{"name":"Mistery_Idle_Up","path":"sprites/Mistery_Idle_Up/Mistery_Idle_Up.yy",},},
     {"id":{"name":"spr_blackBox","path":"sprites/spr_blackBox/spr_blackBox.yy",},},
-    {"id":{"name":"spr_Boss","path":"sprites/spr_Boss/spr_Boss.yy",},},
+    {"id":{"name":"spr_boss","path":"sprites/spr_boss/spr_boss.yy",},},
     {"id":{"name":"spr_button_InGame","path":"sprites/spr_button_InGame/spr_button_InGame.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"spr_Control","path":"sprites/spr_Control/spr_Control.yy",},},

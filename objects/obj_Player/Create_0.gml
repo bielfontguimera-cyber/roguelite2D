@@ -33,4 +33,4 @@ persistent = true
 invincible        = false;
 invincible_time   = 1.0;    // segons d’immunitat després de rebre dany
 blink_interval    = 0.1;    // temps entre parpellejos
-blink_timer       = 0;x
+blink_timer       = 0;

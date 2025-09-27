@@ -4,8 +4,8 @@ var gh = display_get_gui_height();
 var cx = gw * 0.5;
 var cy = gh * 0.5;
 
-var labels = ["Jugar","Opcions","Controls","Crèdits","Sortir"];
-var actions = [0, 1, 2, 3, 4, 5, ];
+var labels = ["Jugar","Controls","Sortir"];
+var actions = [0, 1, 2, ];
 
 var spacing = 40;
 

@@ -6,8 +6,8 @@ if (pause_show) {
     var cx = ROOM_MIN_X -100 + (ROOM_MAX_X/2);
     var cy = ROOM_MIN_Y-100 + (ROOM_MAX_Y/2);
     
-    var labels = ["Reset","Opcions","Menu" ,"Sortir" , "Resume: Press ESC"];
-    var actions = [0, 1, 2, 3, 4,];
+    var labels = ["Reset","Menu" ,"Sortir" , "Resume: Press ESC"];
+    var actions = [0, 1, 2, 3];
     
     var spacing = 20;
 
